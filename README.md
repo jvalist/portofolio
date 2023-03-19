@@ -4,6 +4,8 @@
 ## Description
 It is a landing page with a description of myself and some samples of work I have done in web development as well as a contact section if anyone wants to reach me. 
 
+Check it out here; https://jvalist.github.io/portofolio/
+
 ## Installation
 none
 
