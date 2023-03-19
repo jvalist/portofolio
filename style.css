@@ -1,0 +1,35 @@
+/* Center all content */
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  /* Set up the work container */
+  .work-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  /* Set the size of the application images */
+  .work-container img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Set the size of the first application image to be larger */
+  .work-container .large {
+    flex: 0 0 60%;
+  }
+  
+  /* Set up the title for the applications */
+  .work-container h3, #about, #contact, #work, h1, nav, ul,li {
+    margin: 10px 0 0;
+    font-size: 1.2rem;
+    text-align: center;
+  }
+  li{
+    list-style-type: none;
+  }
